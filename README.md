@@ -1,31 +1,8 @@
+## Clone this project to your computer:
 
-## Requirements
-- Any modern operating system (Windows, macOS, Linux)
-- A web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.)
-
-## Downloading Files
-
-1. **CSS File**:
-    - Right-click on the file `style.css`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
-
-2. **HTML File**:
-    - Right-click on the file `index.html`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
-
-3. **JavaScript File**:
-    - Right-click on the file `script.js`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
-  
-4. **Images Files**:
-    - Right-click on the files `jpg, png`.
-    - Select the "Save As..." option.
-    - Save the files to your desired directory on your computer.
-       
-
+```markdown
+$ git clone https://github.com/NataliiaVdovyna/booking_card.git
+```
 ## Setting Up the Project
 
 1. Open the directory where you saved the files `index.html`, `style.css`, `script.js`, and pictures.
