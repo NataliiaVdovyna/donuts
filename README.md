@@ -1,7 +1,7 @@
 ## Clone this project to your computer:
 
 ```markdown
-$ git clone https://github.com/NataliiaVdovyna/booking_card.git
+$ git clone https://github.com/NataliiaVdovyna/donuts.git
 ```
 ## Setting Up the Project
 
